@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.signature {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+
+.contact-info p {
+    margin: 0 0 10px;
+}
+
+.contact-info a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+.locations table {
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    border-collapse: collapse;
+}
+
+.locations td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 20px;
+}
